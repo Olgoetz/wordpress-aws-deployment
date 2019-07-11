@@ -1,0 +1,5 @@
+access_keys.sh
+/.terraform
+myplan
+*.tfstate
+*.tfstate.backup
